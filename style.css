@@ -1,0 +1,26 @@
+img {
+    height: auto;
+    width: 50px;
+  }
+
+* {
+  background-color: blueviolet;
+}
+
+h1 {
+  font-size: xx-large;
+  font-weight: lighter;
+  color: bisque;
+}
+
+ul {
+  background-color: chocolate;
+}
+
+li {
+  color: rgb(0, 72, 255);
+}
+
+a {
+  color: greenyellow;
+}
